@@ -46,7 +46,8 @@ replacement with the same package layout and APIs. See
 for context.
 [v1.10.0](https://github.com/django-notifications-community/django-notifications-community/releases/tag/v1.10.0)
 is backward-compatible (except dropping support for Python 3.9), with only
-migrations required during upgrade.
+migrations required during upgrade. Python 3.9 users can pin
+`django-notifications-community<1.10`.
 
 ## Requirements
 
