@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/django-notifications/django-notifications/badge.svg?branch=master)](https://coveralls.io/github/django-notifications/django-notifications?branch=master)
 
 > [!IMPORTANT]
-> This project is not currently maintained. For an actively maintained drop-in replacement, see the [community fork](#community-fork) below.
+> This project is not currently maintained. For an actively maintained drop-in replacement, see the [community fork](#community-fork).
 
 ## Community fork
 
