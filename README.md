@@ -3,6 +3,8 @@
 [![build-status](https://travis-ci.org/django-notifications/django-notifications.svg)](https://travis-ci.org/django-notifications/django-notifications)
 [![Coverage Status](https://coveralls.io/repos/github/django-notifications/django-notifications/badge.svg?branch=master)](https://coveralls.io/github/django-notifications/django-notifications?branch=master)
 
+> [!IMPORTANT]
+> This project is not currently maintained. For an actively maintained drop-in replacement, see the [community fork](#community-fork) below.
 
 [django-notifications](https://github.com/django-notifications/django-notifications) is a GitHub notification alike app for Django, it was derived from [django-activity-stream](https://github.com/justquick/django-activity-stream)
 
