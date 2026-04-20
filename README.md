@@ -19,6 +19,8 @@ is backward-compatible (except dropping support for Python 3.9), with only
 migrations required during upgrade. Python 3.9 users can pin
 `django-notifications-community<1.10`.
 
+---
+
 [django-notifications](https://github.com/django-notifications/django-notifications) is a GitHub notification alike app for Django, it was derived from [django-activity-stream](https://github.com/justquick/django-activity-stream)
 
 The major difference between `django-notifications` and `django-activity-stream`:
