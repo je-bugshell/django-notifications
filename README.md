@@ -39,7 +39,7 @@ Spec: <http://activitystrea.ms/specs/atom/1.0/>
 ## Community fork
 
 A community-maintained fork is available at
-[django-notifications-community](https://github.com/django-notifications-community),
+[django-notifications-community](https://github.com/django-notifications-community/django-notifications-community),
 published on PyPI as `django-notifications-community`. It is a drop-in
 replacement with the same package layout and APIs. See
 [issue #416](https://github.com/django-notifications/django-notifications/issues/416)
