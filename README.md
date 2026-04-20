@@ -36,6 +36,18 @@ For example: [justquick](https://github.com/justquick/) `(actor)`
 Nomenclature of this specification is based on the Activity Streams
 Spec: <http://activitystrea.ms/specs/atom/1.0/>
 
+## Community fork
+
+A community-maintained fork is available at
+[django-notifications-community](https://github.com/django-notifications-community),
+published on PyPI as `django-notifications-community`. It is a drop-in
+replacement with the same package layout and APIs. See
+[issue #416](https://github.com/django-notifications/django-notifications/issues/416)
+for context.
+[v1.10.0](https://github.com/django-notifications-community/django-notifications-community/releases/tag/v1.10.0)
+is backward-compatible (except dropping support for Python 3.9), with only
+migrations required during upgrade.
+
 ## Requirements
 
 -   Python 3.9, 3.10, 3.11, 3.12, 3.13
