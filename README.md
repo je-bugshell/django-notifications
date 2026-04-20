@@ -6,6 +6,19 @@
 > [!IMPORTANT]
 > This project is not currently maintained. For an actively maintained drop-in replacement, see the [community fork](#community-fork) below.
 
+## Community fork
+
+A community-maintained fork is available at
+[django-notifications-community](https://github.com/django-notifications-community/django-notifications-community),
+published on PyPI as `django-notifications-community`. It is a drop-in
+replacement with the same package layout and APIs. See
+[issue #416](https://github.com/django-notifications/django-notifications/issues/416)
+for context.
+[v1.10.0](https://github.com/django-notifications-community/django-notifications-community/releases/tag/v1.10.0)
+is backward-compatible (except dropping support for Python 3.9), with only
+migrations required during upgrade. Python 3.9 users can pin
+`django-notifications-community<1.10`.
+
 [django-notifications](https://github.com/django-notifications/django-notifications) is a GitHub notification alike app for Django, it was derived from [django-activity-stream](https://github.com/justquick/django-activity-stream)
 
 The major difference between `django-notifications` and `django-activity-stream`:
@@ -37,19 +50,6 @@ For example: [justquick](https://github.com/justquick/) `(actor)`
 
 Nomenclature of this specification is based on the Activity Streams
 Spec: <http://activitystrea.ms/specs/atom/1.0/>
-
-## Community fork
-
-A community-maintained fork is available at
-[django-notifications-community](https://github.com/django-notifications-community/django-notifications-community),
-published on PyPI as `django-notifications-community`. It is a drop-in
-replacement with the same package layout and APIs. See
-[issue #416](https://github.com/django-notifications/django-notifications/issues/416)
-for context.
-[v1.10.0](https://github.com/django-notifications-community/django-notifications-community/releases/tag/v1.10.0)
-is backward-compatible (except dropping support for Python 3.9), with only
-migrations required during upgrade. Python 3.9 users can pin
-`django-notifications-community<1.10`.
 
 ## Requirements
 
